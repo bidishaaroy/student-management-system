@@ -1,6 +1,6 @@
 # Student Management System
 
-This is a simple student management system that allows the user to add student information such as name, student ID, GPA and program information. The user is able to update, edit and delete student information and also soprt studnets by name (alphabetically) and GPA (highest to lowest).
+This is a simple student management system that allows the user to add student information such as name, student ID, GPA and program information. The user is able to update, edit and delete student information and also sort students by name (alphabetically) and GPA (highest to lowest).
 
 **Features**
 
